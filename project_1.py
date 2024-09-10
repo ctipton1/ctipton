@@ -5,3 +5,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+    def main():
+        name = "Chance"  # Replace with your actual name
+        print(f"Good morning, {name}!")
+
+
+    if __name__ == "__main__":
+        main()
